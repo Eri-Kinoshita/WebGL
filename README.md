@@ -1,4 +1,4 @@
-# my-lesson-WebGL
+# WebGL
 
 ---
 ##practice creating 3D animation by WebGL
